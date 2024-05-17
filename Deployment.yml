@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: test-cont
-        image: mohithdevops/testimage:1
+        image: mohithdevops/testimage:2
         ports:
         - containerPort: 80
 ---
